@@ -1,0 +1,42 @@
+body {
+  background-color:paleturquoise ;
+  font-family: ;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+.northern_lights{
+  width: 300px;
+  border: solid 4px;
+  border-color: black;
+}
+.light_time{
+  width:400px;
+  border: solid 4px;
+  border-color: black;
+}
+.how_they_work{
+  width:450px;
+  border:solid 4px;
+  border-color: black;
+}
+.light_best{
+  width: 400px;
+  border: solid 3px;
+  border-color: black;
+}
+.time{
+  border: solid 3px;
+  border-color: black;
+  color: green;
+  font-family: inconsolata;
+}
+.what_are{
+   border: solid 3px;
+  border-color: black;
+  color: green;
+  font-family: inconsolata;
+}
